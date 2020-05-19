@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+
+}
+.container{
+    width: 100%;
+    height: 100%;
+    background: lightblue;
+}
+.menu ul{
+    display: inline-flex;
+    margin: 50px;
+}
+.menu ul li{
+    list-style: none;
+    margin: 0 20px;
+    color: darkviolet;
+    cursor: pointer;
+    font-size: 25px;
+    
+    
+}
+.aktiv{
+    color: orangered !important;
+}
+.szovegmezo{
+    width: 75%;
+    height: 70%;
+    top: 30%;
+    left: 150px;
+    position: absolute;
+    color: chocolate;
+}
+.szoveg h1{
+    width: 600px;
+    font-size: 35px;
+    position: relative;
+    margin-left: 40px;
+}
+.szoveg p{
+    width: 650px;
+    font-size: 20px;
+    margin: 30px 0 30px 40px;
+    line-height: 30px;
+    color: crimson;
+}
+.portrefoto{
+    width: 50%;
+    height: 30%;
+    margin-left: 74.5%;
+    position: absolute;
+    
+}
+.portrefoto img{
+    width: 50%;
+    
+}
+.hatter{
+    width: 100%;
+    height: 100%;
+    background: lightblue;
+    
+}
+.elerhetoseg{
+    height: 50%;
+    width: 70%;
+    margin-left: 60px;
+    margin-top: 150px;
+    
+}
+.nagybetu{
+    font-size: 35px;
+    margin-left: 60px;
+    text-decoration-line: underline;
+    color: darkorange;
+    
+}
+.elerhetoseg li{
+    margin-left: 65px;
+    margin-top: 5px;
+    font-size: 25px;
+    color: chocolate;
+    
+}
+.hatter2{
+    width: 100%;
+    height: 100%;
+    background: lightblue;
+ 
+}
+.tanszoveg{
+    margin-left: 60px;
+    width: 50%;
+    height: 70%;
+    position: absolute;
+    
+}
+.sulik h1{
+    width: 30%;
+    height: 20%;
+    font-size: 35px;
+    color: chocolate;
+    text-decoration-line: underline;
+    
+    
+}
+.sulik h2{
+    font-size: 30px;
+    color:darkorange;
+    text-decoration-line: underline;
+}
+.sulik p{
+    font-size: 25px;
+    color: chocolate;
+}
+.sulik p2{
+    font-size: 20px;
+    color: darkorange;
+    margin-left: 30%;
+    margin-top: 5px;
+}
+.gyak{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.bme{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 50%;
+    height: 50%;
+    
+}
+.proj h1{
+    font-size: 35px;
+    color: darkorange;
+    margin-left: 5%;
+    
+}
+.proj p{
+    font-size: 25px;
+    color: orangered;
+    margin-left: 7%;
+    margin-top: 5px;
+    
+}
+
+
+
+
+
+
+
+
+
+
